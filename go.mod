@@ -6,7 +6,7 @@ require (
 	github.com/dustin/go-humanize v1.0.0 // indirect
 	github.com/google/uuid v1.1.1
 	github.com/json-iterator/go v1.1.10
-	github.com/zcs-seu/md5-simd v1.1.1
+	github.com/zcs-seu/md5-simd v1.1.3
 	github.com/zcs-seu/sha256-simd v0.1.2
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/sirupsen/logrus v1.6.0 // indirect
