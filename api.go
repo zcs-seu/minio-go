@@ -36,7 +36,7 @@ import (
 	"sync"
 	"time"
 
-	md5simd "github.com/minio/md5-simd"
+	md5simd "github.com/zcs-seu/md5-simd"
 	"github.com/zcs-seu/minio-go/pkg/credentials"
 	"github.com/zcs-seu/minio-go/pkg/s3utils"
 	"github.com/zcs-seu/minio-go/pkg/signer"
