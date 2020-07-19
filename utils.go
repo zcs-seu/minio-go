@@ -34,9 +34,9 @@ import (
 	"sync"
 	"time"
 
-	md5simd "github.com/minio/md5-simd"
-	"github.com/minio/minio-go/v6/pkg/s3utils"
-	"github.com/minio/sha256-simd"
+	md5simd "github.com/zcs-seu/md5-simd"
+	"github.com/zcs-seu/minio-go/pkg/s3utils"
+	"github.com/zcs-seu/sha256-simd"
 )
 
 func trimEtag(etag string) string {

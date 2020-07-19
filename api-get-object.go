@@ -25,7 +25,7 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/minio/minio-go/v6/pkg/s3utils"
+	"github.com/zcs-seu/minio-go/pkg/s3utils"
 )
 
 // GetObject - returns an seekable, readable object.

@@ -29,8 +29,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/minio/minio-go/v6/pkg/signer"
-	sha256 "github.com/minio/sha256-simd"
+	"github.com/zcs-seu/minio-go/pkg/signer"
+	sha256 "github.com/zcs-seu/sha256-simd"
 )
 
 // AssumeRoleResponse contains the result of successful AssumeRole request.

@@ -24,7 +24,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/minio/minio-go/v6"
+	"github.com/zcs-seu/minio-go"
 )
 
 func main() {

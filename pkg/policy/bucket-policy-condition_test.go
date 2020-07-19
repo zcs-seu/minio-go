@@ -21,7 +21,7 @@ import (
 	"testing"
 
 	jsoniter "github.com/json-iterator/go"
-	"github.com/minio/minio-go/v6/pkg/set"
+	"github.com/zcs-seu/minio-go/pkg/set"
 )
 
 var json = jsoniter.ConfigCompatibleWithStandardLibrary

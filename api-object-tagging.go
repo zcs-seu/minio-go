@@ -25,8 +25,8 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/minio/minio-go/v6/pkg/s3utils"
-	"github.com/minio/minio-go/v6/pkg/tags"
+	"github.com/zcs-seu/minio-go/pkg/s3utils"
+	"github.com/zcs-seu/minio-go/pkg/tags"
 )
 
 // PutObjectTagging replaces or creates object tag(s)

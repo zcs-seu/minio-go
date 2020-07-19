@@ -1,12 +1,12 @@
-module github.com/minio/minio-go/v6
+module github.com/zcs-seu/minio-go
 
 go 1.12
 
 require (
 	github.com/dustin/go-humanize v1.0.0 // indirect
 	github.com/json-iterator/go v1.1.9
-	github.com/minio/md5-simd v1.1.0
-	github.com/minio/sha256-simd v0.1.1
+	github.com/zcs-seu/md5-simd v1.1.3
+    github.com/zcs-seu/sha256-simd v0.1.2
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/sirupsen/logrus v1.5.0 // indirect
 	github.com/smartystreets/goconvey v0.0.0-20190330032615-68dc04aab96a // indirect

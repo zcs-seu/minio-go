@@ -25,7 +25,7 @@ import (
 	"time"
 
 	jsoniter "github.com/json-iterator/go"
-	"github.com/minio/minio-go/v6/pkg/s3utils"
+	"github.com/zcs-seu/minio-go/pkg/s3utils"
 )
 
 // GetBucketNotification - get bucket notification at a given path.
