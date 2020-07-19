@@ -23,8 +23,8 @@ import (
 	"context"
 	"log"
 
-	"github.com/minio/minio-go/v7"
-	"github.com/minio/minio-go/v7/pkg/lifecycle"
+	"github.com/zcs-seu/minio-go"
+	"github.com/zcs-seu/minio-go/pkg/lifecycle"
 )
 
 func main() {

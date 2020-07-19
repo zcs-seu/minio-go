@@ -30,7 +30,7 @@ import (
 
 	"math/rand"
 
-	"github.com/minio/minio-go/v7/pkg/credentials"
+	"github.com/zcs-seu/minio-go/pkg/credentials"
 )
 
 const (

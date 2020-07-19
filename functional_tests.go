@@ -43,11 +43,11 @@ import (
 	jsoniter "github.com/json-iterator/go"
 	log "github.com/sirupsen/logrus"
 
-	"github.com/minio/minio-go/v7"
-	"github.com/minio/minio-go/v7/pkg/credentials"
-	"github.com/minio/minio-go/v7/pkg/encrypt"
-	"github.com/minio/minio-go/v7/pkg/notification"
-	"github.com/minio/minio-go/v7/pkg/tags"
+	"github.com/zcs-seu/minio-go"
+	"github.com/zcs-seu/minio-go/pkg/credentials"
+	"github.com/zcs-seu/minio-go/pkg/encrypt"
+	"github.com/zcs-seu/minio-go/pkg/notification"
+	"github.com/zcs-seu/minio-go/pkg/tags"
 )
 
 const letterBytes = "abcdefghijklmnopqrstuvwxyz01234569"

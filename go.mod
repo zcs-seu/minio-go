@@ -1,4 +1,4 @@
-module github.com/minio/minio-go/v7
+module github.com/zcs-seu/minio-go
 
 go 1.12
 
